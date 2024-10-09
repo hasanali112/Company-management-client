@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Company Management Dashboard
 
-## Getting Started
+**Overview:** This project aims to provide a comprehensive dashboard that provides a comprehensive overview of company’s data. With This Dashboard, an all-in-one solution designed to streamline company’s data management and provide actionable insights in real-time. Whether managing employee performance, monitoring financial health, or tracking product inventory. This Dashboard offers a seamless and intuitive interface to help a company owner make data-driven decisions with confidence.
 
-First, run the development server:
+### Tech Stack:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js, Redux Toolkit, RTQ-Query, TypeScript, TailwindCSS, Framer Motion, Shadcn UI, React Hooks Form,
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Key Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Real-Time Financial Reports:** Stay on top of your company’s finances with live updates on revenue, expenses, and profit margins. Easily visualize trends and generate detailed financial reports to keep your business on track.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Employee Management Made Simple:** Access a comprehensive employee database, track performance metrics, and manage attendance and payroll effortlessly. Empower managers to evaluate team performance and keep employees engaged.
 
-## Learn More
+- **Expense and Budget Tracking:** Keep a close eye on spending with automated expense categorization and budget tracking. Set limits for departments and receive alerts when spending exceeds the threshold.
 
-To learn more about Next.js, take a look at the following resources:
+- **Product and Inventory Management:** Manage your product catalog, monitor inventory levels, and track sales performance in real time. Identify top-performing products and forecast inventory needs to keep operations running smoothly.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Data-Driven Decisions:** Gain deep insights into your business operations with interactive charts, graphs, and analytics that highlight key performance indicators (KPIs) and trends, helping you make informed, data-backed decisions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Why need it?
 
-## Deploy on Vercel
+- **Role-Based Access:** Customizable dashboards for Admins, Managers, and Employees, ensuring everyone has access to the information they need.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **User-Friendly Interface:** A modern, intuitive UI that simplifies complex tasks and enhances productivity.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Secure and Scalable:** Built with industry-leading security standards and designed to scale as your business grows.
